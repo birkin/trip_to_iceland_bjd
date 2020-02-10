@@ -1,1 +1,6 @@
-# trip_to_iceland_bjd
+# notes on upcoming trip to iceland
+
+this contains:
+- todo list
+- itinerary
+- camping list
