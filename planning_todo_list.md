@@ -1,0 +1,4 @@
+## todo
+- plan dates
+- get flights
+- make reservations
