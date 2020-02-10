@@ -5,3 +5,4 @@
 
 ## other todos
 - make reservations
+- count participants
