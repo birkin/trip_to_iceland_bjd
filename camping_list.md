@@ -2,3 +2,5 @@
 
 - walking stick
 - rainjacket
+- shoes
+- socks
