@@ -4,3 +4,14 @@
 - rainjacket
 - shoes
 - socks
+
+foisuf
+
+fidjfpsjf
+j
+f
+dsjf
+
+dfiajf
+
+dsfojsi
