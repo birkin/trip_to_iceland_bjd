@@ -2,5 +2,4 @@
 
 this contains:
 - todo list
-- itinerary
 - camping list
